@@ -3,9 +3,7 @@
     @author kisookang
     @date 2021-05-21
     @email verynicesoo78@gmail.com
-	@note verify parameters
-	
-	 exports.CallCredit => Http Post with body data(json)
+    @note exports.CallCredit => Http Post with body data(json)
 */
 
 const functions = require('firebase-functions'); 
